@@ -1,0 +1,33 @@
+.haut-de-page {
+    border-color: rgb(36, 34, 34);
+    border-width: 5px;
+    border-style: solid;
+    background-color: dark;
+    color: grey;
+}
+h1 {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(40, 40, 95);
+    color: rgb(107, 107, 189);
+    background-color: dark;
+    color:  grey;
+    padding: 16px;
+}
+.exp {
+    border-color: rgb(90, 18, 18);
+    border-width: 5px;
+    border-style: solid;
+    margin-top: 10px;
+    background-color: dark;
+    color: grey;
+    margin-top: 10px;
+}
+body {
+    background-color: rgb(8, 8, 81);
+}
+.form {
+    border-style: outset;
+    color: grey;
+    margin-top: 15px;
+}
